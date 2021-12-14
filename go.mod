@@ -1,4 +1,4 @@
-module merchante/suggestion-engine
+module ivanji/suggestion-engine
 
 go 1.16
 

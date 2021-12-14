@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/confluentinc/confluent-kafka-go/kafka"
-	"github.com/merchant-e/suggestions-engine/util/util.go"
+	"github.com/ivanji/suggestions-engine/util"
 )
 
 func main() {
