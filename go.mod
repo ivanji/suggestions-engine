@@ -1,8 +1,5 @@
-module ivanji/suggestion-engine
+module ivanji/suggestions-engine
 
 go 1.16
 
-require (
-	github.com/confluentinc/confluent-kafka-go v1.8.2
-	rsc.io/quote/v4 v4.0.1
-)
+require github.com/confluentinc/confluent-kafka-go v1.8.2
